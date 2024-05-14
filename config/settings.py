@@ -1,0 +1,1 @@
+TRANSACTIONS_FILE_NAME = "transactions.txt"
